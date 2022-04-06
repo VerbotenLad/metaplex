@@ -1,0 +1,43 @@
+{
+  "name": "Pretty Cyclops #90",
+  "symbol": "UC",
+  "description": "No Utility. No bs. You can make whatever you want out of this. Community Led.",
+  "seller_fee_basis_points": 1000,
+  "image": "90.png",
+  "external_url": "",
+  "edition": 90,
+  "creator": "Sanad",
+  "attributes": [
+    {
+      "trait_type": "bg",
+      "value": "green"
+    },
+    {
+      "trait_type": "body",
+      "value": "blueB"
+    },
+    {
+      "trait_type": "skin",
+      "value": "skin3"
+    },
+    {
+      "trait_type": "hat",
+      "value": "h4"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "90.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "9cgSfG615a215tdm4q2rFr3fTydFvPBqupucV6k5d2L5",
+        "share": 100
+      }
+    ]
+  }
+}
